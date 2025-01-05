@@ -2,24 +2,43 @@
 
 Tech Leader | Travel Industry Expert | Full Stack Developer
 
-👋 Building the future of travel technology, one commit at a time.
+👋 Over 20 years of turning technology challenges into success stories.
 
 ## About Me
 
-With 15+ years in travel tech, I'm passionate about creating seamless digital experiences that transform how people explore the world. 
+Practical, results-driven technology leader with a proven track record in travel tech and digital media. I believe in keeping things simple, getting things done, and helping teams reach their full potential through mentorship and coaching. 
 
-Currently leading engineering teams to build scalable, cloud-native solutions for the travel industry.
+While I focus on leadership, I still believe in remaining hands-on with code and architecture to stay connected with the challenges my teams face.
+
+## Tech Leadership Experience
+
+🎯 Led 4 engineering teams at Reach, managing web, mobile, and experimentation platforms
+💻 Worked on systems handling billions of monthly page views
+👥 Specialized in building and scaling high-performing engineering teams
+🚀 Deep expertise in travel technology solutions
+
+## Still Coding 💻
+
+To stay relevant, I believe all good tech leaders need to spend a portion of time cutting code.
+
+Over the last couple of years I have:
+
+- Dived back in to the Python and Django ecosystem
+- Built side projects to explore modern Django practices
+- Prototyped new solutions in JavaScript/TypeScript
+- Reviewing PRs and participating in technical discussions
+- Getting my hands dirty with performance optimization
 
 ## Tech Stack
 
 - Python | Django | FastAPI
+- Node.js | Typescript | Javascript | React
 - PostgreSQL | Redis | Elasticsearch
-- AWS | Docker | Kubernetes
-- React | TypeScript
+- AWS | Azure | Docker | Kubernetes
 
 ## Current Focus
 
-## Recent Projects
+- Leading technology function at Inspiring Travel Company [http://itc-uk.com]
 
 ## Get in Touch
 📫 LinkedIn
