@@ -41,6 +41,6 @@ Over the last couple of years I have:
 ## Get in Touch
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/mikehowarth/)
-- ✍️ [Personal Writing](https://wwwmikehowarth.co.uk)
+- ✍️ [Personal Writing](https://www.mikehowarth.co.uk)
 
 
