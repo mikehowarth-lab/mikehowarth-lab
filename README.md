@@ -8,18 +8,16 @@ Tech Leader | Travel Industry Expert | Full Stack Developer
 
 Practical, results-driven technology leader with a proven track record in travel tech and digital media. I believe in keeping things simple, getting things done, and helping teams reach their full potential through mentorship and coaching. 
 
-While I focus on leadership, I still believe in remaining hands-on with code and architecture to stay connected with the challenges my teams face.
-
 ## Tech Leadership Experience
 
-🎯 Led 4 engineering teams at Reach, managing web, mobile, and experimentation platforms
-💻 Worked on systems handling billions of monthly page views
-👥 Specialized in building and scaling high-performing engineering teams
-🚀 Deep expertise in travel technology solutions
+- 🎯 Led 4 engineering teams at Reach, managing web, mobile, and experimentation platforms
+- 💻 Worked on systems handling billions of monthly page views
+- 👥 Specialized in building and scaling high-performing engineering teams
+- 🚀 Deep expertise in travel technology solutions
 
 ## Still Coding 💻
 
-To stay relevant, I believe all good tech leaders need to spend a portion of time cutting code.
+To stay relevant, I believe all good tech leaders need to spend a portion of their time in the trenches.
 
 Over the last couple of years I have:
 
@@ -38,7 +36,7 @@ Over the last couple of years I have:
 
 ## Current Focus
 
-- Leading technology function at Inspiring Travel Company [http://itc-uk.com]
+- Leading technology function at [Inspiring Travel Company](http://itc-uk.com)
 
 ## Get in Touch
 📫 LinkedIn
