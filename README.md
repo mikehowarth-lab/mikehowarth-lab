@@ -39,5 +39,7 @@ Over the last couple of years I have:
 - Leading technology function at [Inspiring Travel Company](http://itc-uk.com)
 
 ## Get in Touch
-📫 LinkedIn
+📫 [LinkedIn](https://www.linkedin.com/in/mikehowarth/)
+✍️ [Personal Writing](https://wwwmikehowarth.co.uk)
+
 
